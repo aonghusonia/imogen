@@ -1,24 +1,4 @@
-let icon_background = img`
-    .bbbbbbbbbbbbbbbbb.
-    bbebebebebebebebebb
-    bebebebebebebebebeb
-    bbebebebebebebebebb
-    bebebebebebebebebeb
-    bbebebebebebebebebb
-    bebebebebebebebebeb
-    bbebebebebebebebebb
-    bebebebebebebebebeb
-    bbebebebebebebebebb
-    bebebebebebebebebeb
-    bbebebebebebebebebb
-    bebebebebebebebebeb
-    bbebebebebebebebebb
-    bebebebebebebebebeb
-    bbebebebebebebebebb
-    bebebebebebebebebeb
-    bbebebebebebebebebb
-    .bbbbbbbbbbbbbbbbb.
-    `
+let icon_background = assets.image`icon_background`
 let rope_end = img`
     . e b b e e . 
     . e b e b e . 
