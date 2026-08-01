@@ -1,45 +1,7 @@
 let icon_background = assets.image`icon_background`
-let rope_end = img`
-    . e b b e e . 
-    . e b e b e . 
-    . e e b b e . 
-    . e b b b e . 
-    . e e e b e . 
-    e b e b e e . 
-    . b e b e e . 
-    . e b b e b e 
-    `
-let rope_hook = img`
-    e e e e e . . . e e e e e 
-    e b b e e . . . e b b e e 
-    . e e e . . . . . e e e . 
-    . e b e . . . . . e b e . 
-    . e b e . e e e . e b e . 
-    . e b e e b b b e e b e . 
-    . e b b e b e e e b b e . 
-    . . e b e e b b e b e . . 
-    . . . e e b b b e e . . . 
-    `
-let cat_walk1 = img`
-    ......................e....
-    ..................e..ebe...
-    .................ebeebbbe..
-    ................ebbbebbbe..
-    ................ebbbbbbbbe.
-    ......eeee.....eebbbbbbebe.
-    .....ebbbbeeeeebbbbbbebbbbe
-    .....bbbbbbbbbbbbbbbbbbbebe
-    ...ebbbbbbbbbbbbbbbbbbbeebe
-    ...ebbbbbbbbbbbbbbbbbebbbe.
-    ...ebbbbbbbbbbbbbbbebbeee..
-    ..ebebbbbbbbbbbbbbbeee.....
-    .ebbebbbbbbebbbbbbebe......
-    ebbbbebbbbebbebbbebbbe.....
-    ebbbeebbbbbeebbbebbbbee....
-    ebbbbeeebbbbebbbeeebbbbe...
-    .ebbbe..eebbebbe...ebbbe...
-    ..eee.....ee.ee.....eee....
-    `
+let rope_end = assets.image`rope_end`
+let rope_hook = assets.image`rope_hook`
+let cat_walk1 = assets.image`cat_walk1`
 let cat_walk2 = img`
     ......................e....
     ..................e..ebe...

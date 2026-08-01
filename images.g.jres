@@ -4,6 +4,21 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "icon_background"
     },
+    "image4": {
+        "data": "hwQbABIAAAAAAAAAAADg7gAAAAAAAAAAAADe3Q4AAAAAAAAAAODd3e0AAAAAAAAA7t7d3e0AAAAAAAAA3e3e3u0AAAAAAADe3d3t7g4AAAAAAODd3d3d7QAAAAAAAODd3d3d7QAAAAAAAODd3d3d3Q4AAAAAAODd3d3d3Q4AAAAAAADe3d3t3e0AAAAAAADe3d3e3u0AAAAAAADe3d3d7g4AAAAAAADe3d3t3e0AAAAAAADe3d3d3e0AAAAAAODd3d3d3Q4AAAAA4O7d3d3d7gAAAAAA3t3d3d3t7QAAAADg3d3d3d3e7QAAAAAA3t3d3e7d3Q4AAAAA7t3d3e3e3e0AAADg3d3e7e3g3u0AAADe3d3d3Q4A3u0AAADg3e3d3g4A4A4AAAAA7t3t3g4AAAAAAAAAAO7d7QAAAAAAAAAAAADuDgAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cat_walk1"
+    },
+    "image3": {
+        "data": "hwQNAAkAAADuAAAAAAAAAN7u7g4AAAAA3t7d7QAAAADu7u7dDgAAAO4A4O4OAAAAAADe7Q0AAAAAAN7eDQAAAAAA3t4NAAAA7gDg7g4AAADe7u7dDgAAAN7e3e0AAAAA7u7uDgAAAADuAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "rope_hook"
+    },
+    "image2": {
+        "data": "hwQHAAgAAAAAAOAA7u7e7d3e7t7t3d7d3t3t7u7u7t4AAADg",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "rope_end"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
